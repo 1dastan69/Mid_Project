@@ -1,8 +1,6 @@
 # JavaFX Student Management System
 A Java application for managing students teachers, and grades.
 
-[![GitHub stars](https://img.shields.io/github/stars/catman85/JavaFX-Student-Management-System.svg?style=flat-square)](https://github.com/catman85/Android-Simple-Messaging-App-UI/stargazers) [![GitHub forks](https://img.shields.io/github/forks/catman85/JavaFX-Student-Management-System.svg?style=flat-square)](https://github.com/catman85/JavaFX-Student-Management-System/network) [![HitCount](http://hits.dwyl.io/catman85/JavaFX-Student-Management-System.svg)](http://hits.dwyl.io/catman85/JavaFX-Student-Management-System) [![GitHub license](https://img.shields.io/github/license/catman85/JavaFX-Student-Management-System.svg?style=flat-square)](https://github.com/catman85/JavaFX-Student-Management-System/blob/master/LICENSE)
-
 ## Use Case
 Teachers and Students register in the platform.
 Students log in the platform to enroll in courses and see the grades they received.
